@@ -3,5 +3,20 @@
 Java is an OOPS programming Language
 * OOPS concepts in Java
   * class and object
-  * Inheritance etc
-  
+    * Inheritance etc
+    
+3. Inheritance 
+4. **Polymorphism**
+5. ***Abstraction***
+6. *Encapsulation*
+
+# create a link
+[Google](www.google.com)
+
+# create a table
+
+s.no|name|marks
+----|----|------
+1|A|1
+2|B|2
+
