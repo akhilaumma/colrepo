@@ -22,3 +22,8 @@ s.no|name|marks
 
 # Insert Image
 ![MariGold](https://github.com/akhilaumma/colrepo/blob/main/Marigold.jpg)
+
+# Adding Code
+    a=6
+    b=9
+    print(a+b)
