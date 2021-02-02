@@ -1,0 +1,15 @@
+1.GIT initialisation 
+git init
+2. GIT status 
+git status
+3.if files are in untracking stage to send to staging 
+git add filename.txt  or git add . or git add --all
+4. git commit -m "message kind of description about file"
+5. to connect to remote server when first using the system
+git config --global user.name
+get config --global user.email
+6. git add origin master "link of repository"
+7.git push origin master
+(master is the name of default branch)
+
+
