@@ -21,4 +21,5 @@ s.no|name|marks
 2|B|2
 
 #Insert File
+
 ![MariGold](https://github.com/akhilaumma/colrepo/blob/main/Marigold.jpg)
