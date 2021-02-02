@@ -1,4 +1,3 @@
-# colrepo
 ## Java Intro
 # Java 
 Java is an OOPS programming Language
