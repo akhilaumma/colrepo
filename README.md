@@ -1,6 +1,7 @@
 # colrepo
-## CHECKING
-* Unordered , * item2
-1.Ordered ,2.item2
-**Bold
-*Italic
+## Java Intro
+# Java 
+Java is an OOPS programming Language
+# OOPS concepts in Java
+* class and object
+* Inheritance etc
